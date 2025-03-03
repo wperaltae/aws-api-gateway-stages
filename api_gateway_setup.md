@@ -97,7 +97,7 @@ Add Variable to API-PROD Stage
 
 ![](images/img_005.png)
 
-## [TEST API](https://github.com/wperalta28/aws-api-gateway-stages_test/blob/main/guide.md#step-5-test-api)
+## [TEST API](https://github.com/wperaltae/aws-api-gateway-stages/blob/main/guide.md#step-5-test-api)
 
 ---
 
